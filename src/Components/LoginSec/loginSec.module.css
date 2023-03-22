@@ -1,0 +1,98 @@
+/* login section  */
+
+.loginBox {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+.login {
+  width: 50%;
+  height: 60vh;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid rgb(211, 209, 209);
+  background-color:#E0E0E3;
+}
+.loginimage img {
+  height: 60vh;
+}
+.loginputsec {
+  padding: 0.5rem;
+}
+.logininput{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  gap: .5rem;
+}
+.logininput p {
+  text-align: center;
+}
+.logininput input {
+  border: none;
+  outline: none;
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+.loginbutton{
+  padding: 1rem;
+}
+.loginbutton button {
+  border: 1px solid rgb(163, 161, 161);
+  outline: none;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  border-radius: 5px;
+}
+/* register section  */
+.registerbox {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+.register {
+  width: 50%;
+  height: 60vh;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid rgb(211, 209, 209);
+  background-color:#E0E0E3;
+}
+.registerimage img {
+  height: 60vh;
+}
+.registerinputsec {
+  padding: 0.5rem;
+}
+.registerinput{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  gap: .5rem;
+
+}
+.registerinput p {
+  text-align: center;
+}
+.registerinput input {
+  border: none;
+  outline: none;
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+.registerbutton{
+  padding: .5rem;
+}
+.registerbutton button {
+  border: 1px solid rgb(163, 161, 161);
+  outline: none;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  border-radius: 5px;
+}
