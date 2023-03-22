@@ -1,5 +1,6 @@
 import axios from "axios";
-const url = "http://localhost:4000/api/v1/";
+// const url = "http://localhost:4000/api/v1/";
+const url="https://web-x-server.onrender.com/api/v1/"
 
 export const UploadFile = async (query,config) => {
   // console.log('query', query);
